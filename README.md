@@ -36,15 +36,15 @@
 | 🐧 **Linux Setup** | Customizing my Linux environment and development workflow |
 | 🧪 **42 Projects** | Exploring low-level programming, algorithms and software development |
 
-## `github_stats`
+
+## `coding_activity`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XENOS33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XENOS33&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TON_PSEUDO_WAKATIME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://wakatime.com/)
 
 </div>
+
 
 ---
 
