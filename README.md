@@ -40,7 +40,7 @@ int main(void)
     me.language = "C";
     me.os       = "Linux 🐧";
     me.motto    = "Understand how things work, from code to system.";
-    return (0); // Norminette approved ✅
+    return (0);
 }
 ```
 
