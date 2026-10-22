@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TON_PSEUDO_WAKATIME&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://wakatime.com/)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=XENOS33&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://wakatime.com/)
 
 </div>
 
