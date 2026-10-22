@@ -1,125 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:123b52,100:00d9ff&height=230&section=header&text=XENOS33&fontSize=65&fontColor=ffffff&fontAlignY=36&desc=42%20Angoul%C3%AAme%20%7C%20Software%20Development&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:6d28d9,100:ec4899&height=180&section=header&text=%3C%2F%3E%20XENOS33&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=%E2%80%A2%20student%20%40%2042%20Angoul%C3%AAme%20%E2%80%A2&descAlignY=72&descSize=17" width="100%" />
 
-<a href="https://github.com/XENOS33">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Software+Development+Student+%40+42+Angoul%C3%AAme;Learning+by+building%2C+debugging+and+breaking+things;malloc%28%29+%E2%86%92+use+%E2%86%92+free%28%29+%E2%86%92+repeat;Segfault+is+just+a+learning+opportunity+%F0%9F%98%8E" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=640&height=45&lines=%3E+booting+XENOS33.exe...;%3E+C+%7C+Linux+%7C+low-level;%3E+if+it+segfaults%2C+it+teaches+me;%3E+status%3A+learning+%26+building" alt="typing" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=XENOS33&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/XENOS33?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/XENOS33?style=for-the-badge&logo=starship&color=00d9ff&labelColor=0d1117)
-![42](https://img.shields.io/badge/42-Angoul%C3%AAme-00d9ff?style=for-the-badge&logo=42&logoColor=white&labelColor=0d1117)
+![Student](https://img.shields.io/badge/STUDENT-42%20Angoul%C3%AAme-6d28d9?style=for-the-badge&labelColor=0f0c29)
+![C](https://img.shields.io/badge/MAIN%20LANG-C-ec4899?style=for-the-badge&labelColor=0f0c29)
+![Linux](https://img.shields.io/badge/OS-Linux-a78bfa?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f0c29)
+![Views](https://komarev.com/ghpvc/?username=XENOS33&color=ec4899&style=for-the-badge&label=VISITORS&labelColor=0f0c29)
 
 </div>
 
 <br/>
 
-## `~/whoami`
+<!-- ───────────── NEOFETCH ───────────── -->
+
+<div align="center">
+
+```ansi
+        ██╗  ██╗██████╗          xenos33@42-angouleme
+        ██║  ██║╚════██╗         ──────────────────────
+        ███████║ █████╔╝         School   ▸ 42 Angoulême
+        ╚════██║██╔═══╝          Focus    ▸ C & low-level dev
+             ██║███████╗         OS       ▸ Linux 🐧
+             ╚═╝╚══════╝         Editor   ▸ Vim / VS Code
+                                 Shell    ▸ bash
+                                 Method   ▸ peer-learning
+                                 Status   ▸ ● online, compiling
+```
+
+</div>
+
+<br/>
+
+<!-- ───────────── ABOUT ───────────── -->
+
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Parcours**
+Étudiant en développement logiciel à **42 Angoulême**, une école sans prof ni cours magistraux : on apprend en codant, en cherchant et en échangeant avec les autres.
+
+</td>
+<td width="50%" valign="top">
+
+**🔬 Ma curiosité**
+J'aime comprendre ce qu'il y a *sous le capot* : mémoire, processus, système, du code jusqu'à la machine.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───────────── STACK ───────────── -->
+
+<h2 align="center">🧰 LOADOUT</h2>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-a78bfa?style=for-the-badge&logo=c&logoColor=white&labelColor=0f0c29)
+![Linux](https://img.shields.io/badge/Linux-ec4899?style=for-the-badge&logo=linux&logoColor=white&labelColor=0f0c29)
+![Bash](https://img.shields.io/badge/Bash-6d28d9?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0f0c29)
+![Git](https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
+![Vim](https://img.shields.io/badge/Vim-ec4899?style=for-the-badge&logo=vim&logoColor=white&labelColor=0f0c29)
+![Python](https://img.shields.io/badge/Python-6d28d9?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29)
+![VS Code](https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0f0c29)
+
+</div>
+
+<br/>
+
+<!-- ───────────── SKILL LEVELS ───────────── -->
+
+<h2 align="center">📊 SKILL LEVELS</h2>
+
+<div align="center">
+
+```text
+C programming      ▰▰▰▰▰▰▱▱▱▱   60%
+Linux / shell      ▰▰▰▰▰▱▱▱▱▱   50%
+Git & workflow     ▰▰▰▰▱▱▱▱▱▱   40%
+Memory mgmt        ▰▰▰▱▱▱▱▱▱▱   30%
+Algorithms         ▰▰▰▱▱▱▱▱▱▱   30%
+```
+
+</div>
+
+<br/>
+
+<!-- ───────────── ROADMAP ───────────── -->
+
+<h2 align="center">🗺️ ROADMAP 42</h2>
+
+<div align="center">
+
+| Quest | Objectif | État |
+|:--|:--|:-:|
+| 📚 **Libft** | Recoder la libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
+| 🐧 **Linux Setup** | Environnement & workflow sur mesure | ![](https://img.shields.io/badge/-ONGOING-a78bfa?style=flat-square&labelColor=0f0c29) |
+| 🧪 **Cursus 42** | Algo, système, réseau, low-level | ![](https://img.shields.io/badge/-LOADING...-6d28d9?style=flat-square&labelColor=0f0c29) |
+| 🔒 **Prochains projets** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
+
+</div>
+
+<br/>
+
+<!-- ───────────── STATS ───────────── -->
+
+<h2 align="center">📈 STATS</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=XENOS33&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=ec4899&icon_color=a78bfa&text_color=e5e7eb&ring_color=ec4899&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb&v=2" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/6d28d9/XENOS33" alt="Contributions" width="90%" />
+
+</div>
+
+<br/>
+
+<!-- ───────────── FOOTER ───────────── -->
+
+<div align="center">
 
 ```c
-#include <42.h>
-
-typedef struct s_dev
+while (1)
 {
-    char    *name;
-    char    *school;
-    char    *language;
-    char    *os;
-    char    *motto;
-}   t_dev;
-
-int main(void)
-{
-    t_dev   me;
-
-    me.name     = "XENOS33";
-    me.school   = "42 Angoulême";
-    me.language = "C";
-    me.os       = "Linux 🐧";
-    me.motto    = "Understand how things work, from code to system.";
-    return (0);
+    learn();
+    build();
+    break_things();
+    fix_them();
 }
 ```
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-XENOS33-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/XENOS33)
+[![WakaTime](https://img.shields.io/badge/WakaTime-stats-ec4899?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0f0c29)](https://wakatime.com/@55e4cc33-a883-4ab8-bae7-493789bc4868)
 
-## `~/tech_stack`
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=c,linux,bash,git,github,python,vim,vscode&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
-<br/>
-
-## `~/current_projects`
-
-<div align="center">
-
-| | Project | Description | Status |
-|:-:|:--|:--|:-:|
-| 📚 | **Libft** | Reimplementing the standard C library from scratch | ![](https://img.shields.io/badge/-in%20progress-00d9ff?style=flat-square&labelColor=0d1117) |
-| 🐧 | **Linux Setup** | Customizing my environment & dev workflow | ![](https://img.shields.io/badge/-ongoing-2ea043?style=flat-square&labelColor=0d1117) |
-| 🧪 | **42 Cursus** | Low-level programming, algorithms & software dev | ![](https://img.shields.io/badge/-learning-f0883e?style=flat-square&labelColor=0d1117) |
-
-</div>
-
-<br/>
-
-## `~/github_stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=XENOS33&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XENOS33&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" />
-
-<img src="https://streak-stats.demolab.com?user=XENOS33&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" />
-
-</div>
-
-<br/>
-
-## `~/coding_activity`
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&v=2)](https://wakatime.com/@55e4cc33-a883-4ab8-bae7-493789bc4868)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XENOS33&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&title_color=00d9ff" width="100%" />
-
-</div>
-
-<br/>
-
-## `~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=XENOS33&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
-
-<br/>
-
-## `~/connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-XENOS33-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XENOS33)
-[![WakaTime](https://img.shields.io/badge/WakaTime-Stats-00d9ff?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0d1117)](https://wakatime.com/@55e4cc33-a883-4ab8-bae7-493789bc4868)
-[![42](https://img.shields.io/badge/42-Angoul%C3%AAme-000000?style=for-the-badge&logo=42&logoColor=white)](https://42angouleme.fr)
-
-<br/>
-
-```bash
-$ echo "Still learning. Still building."
-Still learning. Still building.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:123b52,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,50:6d28d9,100:0f0c29&height=90&section=footer" width="100%" />
 
 </div>
