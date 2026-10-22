@@ -100,9 +100,7 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 <br/><br/>
 
 <!-- Décommente cette ligne APRÈS avoir lancé l'Action "Generate Snake" une première fois -->
-<!--
 <img src="https://raw.githubusercontent.com/XENOS33/XENOS33/output/github-snake-dark.svg" alt="snake" width="100%" />
--->
 
 </div>
 
