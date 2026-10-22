@@ -17,9 +17,11 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+      - uses: Platane/snk/svg-only@v3
+        with:
+              github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-dark.svg?color_snake=ec4899&color_dots=1b1736,3b2a7a,6d28d9,a78bfa,ec4899
-
+            dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
