@@ -103,7 +103,6 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-XENOS33-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/XENOS33)
 [![WakaTime](https://img.shields.io/badge/WakaTime-stats-ec4899?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0f0c29)](https://wakatime.com/@55e4cc33-a883-4ab8-bae7-493789bc4868)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f0c29&height=100&section=footer" width="100%" />
