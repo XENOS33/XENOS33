@@ -103,16 +103,6 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 
 <br/>
 
-```c
-while (1)
-{
-    learn();
-    build();
-    break_things();
-    fix_them();
-}
-```
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-XENOS33-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/XENOS33)
