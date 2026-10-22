@@ -33,14 +33,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Parcours**<br/>
-Étudiant en développement logiciel à **42 Angoulême**, une école sans prof ni cours magistraux : on apprend en codant, en cherchant et en échangeant avec les autres.
+**🎓 Background**<br/>
+Software development student at **42 Angoulême**, a school with no teachers and no lectures: you learn by coding, researching and exchanging with your peers.
 
 </td>
 <td width="50%" valign="top">
 
-**🔬 Ma curiosité**<br/>
-J'aime comprendre ce qu'il y a *sous le capot* : mémoire, processus, système, du code jusqu'à la machine.
+**🔬 My curiosity**<br/>
+I like understanding what's *under the hood*: memory, processes, the system, from the code all the way down to the machine.
 
 </td>
 </tr>
@@ -74,16 +74,16 @@ Memory mgmt      ▰▰▰▱▱▱▱▱▱▱  30%
 Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 ```
 
-<h2 align="center">🗺️ ROADMAP 42</h2>
+<h2 align="center">🗺️ 42 ROADMAP</h2>
 
 <div align="center">
 
-| Quest | Objectif | État |
+| Quest | Goal | Status |
 |:--|:--|:-:|
-| 📚 **Libft** | Recoder la libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
-| 🐧 **Linux Setup** | Environnement & workflow sur mesure | ![](https://img.shields.io/badge/-ONGOING-a78bfa?style=flat-square&labelColor=0f0c29) |
-| 🧪 **Cursus 42** | Algo, système, réseau, low-level | ![](https://img.shields.io/badge/-LOADING...-6d28d9?style=flat-square&labelColor=0f0c29) |
-| 🔒 **Prochains projets** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
+| 📚 **Libft** | Recode the libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
+| 🐧 **Linux Setup** | Custom environment & workflow | ![](https://img.shields.io/badge/-ONGOING-a78bfa?style=flat-square&labelColor=0f0c29) |
+| 🧪 **42 Cursus** | Algorithms, systems, networking, low-level | ![](https://img.shields.io/badge/-LOADING...-6d28d9?style=flat-square&labelColor=0f0c29) |
+| 🔒 **Next projects** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
 
 </div>
 
@@ -96,8 +96,6 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=XENOS33&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=ec4899&icon_color=a78bfa&text_color=e5e7eb&ring_color=ec4899&count_private=true&custom_title=XENOS33%20GitHub%20Stats" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb&v=2" />
-
-<br/><br/>
 
 </div>
 
