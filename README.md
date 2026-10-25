@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:ec4899&height=200&section=header&text=XENOS33&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=42%20Angoul%C3%AAme%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=640&height=45&lines=booting+XENOS33...;C+%7C+Linux+%7C+low-level;if+it+segfaults%2C+it+teaches+me;status%3A+learning+and+building" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=640&height=45&lines=XENOS33;C+%7C+Linux+%7C+low-level;status%3A+learning+and+building" alt="typing" />
 
 <br/>
 
