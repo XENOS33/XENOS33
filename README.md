@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:ec4899&height=200&section=header&text=XENOS33&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=42%20Angoul%C3%AAme%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6d28d9,100:ec4899&height=200&section=header&text=clbranas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=42%20Angoul%C3%AAme%20%7C%20Software%20Development&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=640&height=45&lines=XENOS33;C+%7C+Linux+%7C+low-level;status%3A+learning+and+building" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=EC4899&center=true&vCenter=true&width=640&height=45&lines=clbranas;C+%7C+Linux+%7C+low-level;status%3A+learning+and+building" alt="typing" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 <br/>
 
 ```text
- ##   ##   #######      xenos33@42-angouleme
+ ##   ##   #######      clbranas@42-angouleme
  ##   ##        ##      ----------------------
  #######     #####      School  > 42 Angoulême
       ##    ##          Focus   > C & low-level dev
@@ -27,19 +27,9 @@
                         Status  > online, compiling
 ```
 
-<h2 align="center">⚡ ABOUT ME ⚡</h2>
+<h2 align="center">  ABOUT ME  </h2>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Background**<br/>
 Software development student at **42 Angoulême**, a school with no teachers and no lectures: you learn by coding, researching and exchanging with your peers.
-
-</td>
-<td width="50%" valign="top">
-
-**🔬 My curiosity**<br/>
 I like understanding what's *under the hood*: memory, processes, the system, from the code all the way down to the machine.
 
 </td>
@@ -48,7 +38,7 @@ I like understanding what's *under the hood*: memory, processes, the system, fro
 
 <br/>
 
-<h2 align="center">🧰 LOADOUT</h2>
+<h2 align="center">LOADOUT</h2>
 
 <div align="center">
 
@@ -58,13 +48,12 @@ I like understanding what's *under the hood*: memory, processes, the system, fro
 ![Git](https://img.shields.io/badge/Git-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29)
 ![Vim](https://img.shields.io/badge/Vim-ec4899?style=for-the-badge&logo=vim&logoColor=white&labelColor=0f0c29)
 ![Python](https://img.shields.io/badge/Python-6d28d9?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29)
-![VS Code](https://img.shields.io/badge/VS%20Code-a78bfa?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0f0c29)
 
 </div>
 
 <br/>
 
-<h2 align="center">📊 SKILL LEVELS</h2>
+<h2 align="center"> SKILL </h2>
 
 ```text
 C programming    ▰▰▰▰▰▰▱▱▱▱  60%
@@ -74,22 +63,20 @@ Memory mgmt      ▰▰▰▱▱▱▱▱▱▱  30%
 Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 ```
 
-<h2 align="center">🗺️ 42 ROADMAP</h2>
+<h2 align="center">42 ROADMAP</h2>
 
 <div align="center">
 
-| Quest | Goal | Status |
+| Project | Goal | Status |
 |:--|:--|:-:|
-| 📚 **Libft** | Recode the libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
-| 🐧 **Linux Setup** | Custom environment & workflow | ![](https://img.shields.io/badge/-ONGOING-a78bfa?style=flat-square&labelColor=0f0c29) |
-| 🧪 **42 Cursus** | Algorithms, systems, networking, low-level | ![](https://img.shields.io/badge/-LOADING...-6d28d9?style=flat-square&labelColor=0f0c29) |
-| 🔒 **Next projects** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
+| **Libft** | Recode the libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
+| **Next projects** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
 
 </div>
 
 <br/>
 
-<h2 align="center">📈 STATS</h2>
+<h2 align="center">STATS</h2>
 
 <div align="center">
 
