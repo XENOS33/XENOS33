@@ -63,14 +63,17 @@ Memory mgmt      ▰▰▰▱▱▱▱▱▱▱  30%
 Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 ```
 
+
 <h2 align="center">42 ROADMAP</h2>
 
 <div align="center">
 
 | Project | Goal | Status |
 |:--|:--|:-:|
-| **Libft** | Recode the libc from scratch | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
-| **Next projects** | ft_printf · get_next_line · push_swap | ![](https://img.shields.io/badge/-LOCKED-30363d?style=flat-square&labelColor=0f0c29) |
+| **Libft** | Recode the libc from scratch | ![](https://img.shields.io/badge/-COMPLETED-22c55e?style=flat-square&labelColor=0f0c29) |
+| **ft_printf** | Recode printf from scratch | ![](https://img.shields.io/badge/-COMPLETED-22c55e?style=flat-square&labelColor=0f0c29) |
+| **get_next_line** | Read files line by line | ![](https://img.shields.io/badge/-IN%20REVIEW-f59e0b?style=flat-square&labelColor=0f0c29) |
+| **push_swap** | Sort a stack using optimized algorithms | ![](https://img.shields.io/badge/-IN%20PROGRESS-ec4899?style=flat-square&labelColor=0f0c29) |
 
 </div>
 
