@@ -81,7 +81,7 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=XENOS33&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb&v=3" />
 
 </div>
 
