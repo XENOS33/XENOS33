@@ -76,11 +76,12 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 
 <br/>
 
+
 <h2 align="center">STATS</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb&v=2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=55e4cc33-a883-4ab8-bae7-493789bc4868&layout=compact&hide_border=true&bg_color=0f0c29&title_color=ec4899&text_color=e5e7eb" />
 
 </div>
 
@@ -89,7 +90,7 @@ Algorithms       ▰▰▰▱▱▱▱▱▱▱  30%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-XENOS33-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/XENOS33)
-[![WakaTime](https://img.shields.io/badge/WakaTime-stats-ec4899?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0f0c29)](https://wakatime.com/@80c01b62-bfc1-439b-8622-62047b2487b1)
+[![WakaTime](https://img.shields.io/badge/WakaTime-stats-ec4899?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=0f0c29)](https://wakatime.com/@55e4cc33-a883-4ab8-bae7-493789bc4868)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f0c29&height=100&section=footer" width="100%" />
 
